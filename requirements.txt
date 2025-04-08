@@ -1,5 +1,5 @@
 pandas
-pil
+pillow
 requests
 io
 elasticsearch
