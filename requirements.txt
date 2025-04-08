@@ -1,9 +1,7 @@
 pandas
 pillow
 requests
-io
 elasticsearch
 pymongo
 csv
-time
 yaml
