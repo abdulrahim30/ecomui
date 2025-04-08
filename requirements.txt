@@ -3,4 +3,3 @@ pillow
 requests
 elasticsearch
 pymongo
-yaml
