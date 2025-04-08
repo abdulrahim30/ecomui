@@ -3,5 +3,4 @@ pillow
 requests
 elasticsearch
 pymongo
-csv
 yaml
