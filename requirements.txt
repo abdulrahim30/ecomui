@@ -4,3 +4,7 @@ requests
 elasticsearch
 pymongo
 pyyaml
+numpy
+pickle
+matplotlib
+seaborn
