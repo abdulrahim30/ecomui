@@ -1,0 +1,12 @@
+ecs:
+  cloud_id: "9ad99cee9a524e96aefb94adb3b9e118:dXMtY2VudHJhbDEuZ2NwLmNsb3VkLmVzLmlvJGY3Y2Q2ZDE0NDBlNDRiMDY4NzZjMzU3Yzc3ODBjOTdiJGZhNzFlZmQ2NjFhMTQwMDFhOGQxY2M5MGI0OGZiMjA2"
+  api_key: "YU1oZUJKWUIwMkphOHc2OWxpeFM6a0JVZW5KcUVTSVc5VmxQSUlIUVZ4dw=="
+
+mongodb:
+  uri: "mongodb+srv://ecomadmin:Admin123@ecomcluster.tlxtn.mongodb.net/?retryWrites=true&w=majority&appName=EcomCluster"
+  collection_name: "ecom_prod"
+  collection_test: "ecom_test"
+
+mongodb_raw:
+  uri: "mongodb+srv://ecomadmin:Admin123@ecomrawcluster.j2kz4tg.mongodb.net/?retryWrites=true&w=majority&appName=ecomrawcluster"
+  collection_name: "ecom_raw"
